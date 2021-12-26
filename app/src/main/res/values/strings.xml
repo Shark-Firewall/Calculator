@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="textC">C</string>
+    <string name="leftBraket">(</string>
+    <string name="rightBraket">)</string>
+    <string name="divide">/</string>
+    <string name="text7">7</string>
+    <string name="text8">8</string>
+    <string name="text9">9</string>
+    <string name="multiply">x</string>
+    <string name="text4">4</string>
+    <string name="text5">5</string>
+    <string name="text6">6</string>
+    <string name="sub">-</string>
+    <string name="text1">1</string>
+    <string name="text2">2</string>
+    <string name="text3">3</string>
+    <string name="add">+</string>
+    <string name="change">00</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+</resources>
